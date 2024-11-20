@@ -36,7 +36,7 @@ const InvoiceItem = ({
         </tbody>
       </Table>
       <Button className="fw-bold btn-secondary" onClick={onRowAdd}>
-        Add Item
+        Add Items
       </Button>
     </div>
   );
